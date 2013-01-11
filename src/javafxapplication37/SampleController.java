@@ -32,6 +32,6 @@ public class SampleController implements Initializable {
     
     @Override
     public void initialize(URL url, ResourceBundle rb) {
-        System.out.println("proba2");
+        System.out.println("hehe");
     }    
 }
