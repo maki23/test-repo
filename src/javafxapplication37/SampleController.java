@@ -25,6 +25,7 @@ public class SampleController implements Initializable {
         System.out.println("You clicked me!");
         label.setText("Hello World!");
         System.out.println("hello");
+        System.out.println("hello2");
     }
     
     @Override
