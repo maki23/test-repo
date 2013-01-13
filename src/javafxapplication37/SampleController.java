@@ -22,11 +22,10 @@ public class SampleController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        System.out.println("haaaaaaaa");
         label.setText("Hello World!");
+        System.out.println("ize");
         System.out.println("hello3");
-        System.out.println("hello23");
-        System.out.println("hello23");
+
     }
     
     @Override
