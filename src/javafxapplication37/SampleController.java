@@ -22,7 +22,7 @@ public class SampleController implements Initializable {
     
     @FXML
     private void handleButtonAction(ActionEvent event) {
-        label.setText("Hello World!");
+        label.setText("Hello World2!");
         System.out.println("ize");
         System.out.println("hello3");
 
